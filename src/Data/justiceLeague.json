@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Bruce Wayne",
+        "a.k.a": "Batman",
+        "ability": "Rich"
+    },
+    {
+        "id": 2,
+        "name": "Clark Ken",
+        "a.k.a": "Superman",
+        "ability": "Super human"
+    },
+    {
+        "id": 3,
+        "name": "Diana Prince",
+        "a.k.a": "Wonder Woman",
+        "ability": "Strong human"
+    }
+]
